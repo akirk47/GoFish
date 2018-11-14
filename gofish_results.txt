@@ -1,0 +1,158 @@
+Alex asks Jane for 6
+Alex draws a 6s
+ 
+Jane asks Alex for Q
+Alex gives a Qs to Jane
+Jane asks Alex for 10
+Jane draws a 10d
+ 
+Alex asks Jane for 6
+Alex draws a 6s
+ 
+Jane asks Alex for 9
+Jane draws a 9d
+ 
+Alex asks Jane for 6
+Jane gives a 6s to Alex
+Alex asks Jane for 2
+Alex draws a 2s
+ 
+Jane asks Alex for 9
+Jane draws a 9d
+ 
+Alex asks Jane for 2
+Alex draws a 2s
+ 
+Jane asks Alex for 9
+Jane draws a 9d
+ 
+Alex asks Jane for 7
+Alex draws a 7d
+ 
+Jane asks Alex for 8
+Alex gives a 8h to Jane
+Jane asks Alex for 9
+Alex gives a 9d to Jane
+Jane asks Alex for 4
+Alex gives a 4s to Jane
+Jane asks Alex for 10
+Jane draws a 10d
+ 
+Alex asks Jane for 7
+Alex draws a 7d
+ 
+Jane asks Alex for 5
+Jane draws a 5s
+ 
+Alex asks Jane for 7
+Alex draws a 7d
+ 
+Jane asks Alex for 5
+Jane draws a 5s
+ 
+Alex asks Jane for K
+Jane gives a Kd to Alex
+Alex asks Jane for K
+Alex draws a Kd
+ 
+Jane asks Alex for 5
+Jane draws a 5s
+ 
+Alex asks Jane for J
+Jane gives a Jc to Alex
+Alex asks Jane for J
+Alex draws a Jc
+ 
+Jane asks Alex for Q
+Jane draws a Qh
+ 
+Alex asks Jane for A
+Jane gives a As to Alex
+Alex asks Jane for A
+Alex draws a As
+ 
+Jane asks Alex for Q
+Jane draws a Qh
+ 
+Alex asks Jane for A
+Alex draws a Ac
+ 
+Jane asks Alex for 8
+Jane draws a 8h
+ 
+Alex asks Jane for 5
+Jane gives a 5d to Alex
+Jane gives a 5d to Alex
+Alex asks Jane for A
+Alex draws a Ah
+ 
+Jane asks Alex for 8
+Alex gives a 8h to Jane
+Jane asks Alex for 2
+Alex gives a 2h to Jane
+Jane asks Alex for Q
+Jane draws a Qh
+ 
+Alex asks Jane for 4
+Jane gives a 4c to Alex
+Alex asks Jane for 3
+Alex draws a 3h
+ 
+Jane asks Alex for Q
+Jane draws a Qh
+ 
+Alex asks Jane for 5
+Jane gives a 5d to Alex
+Alex asks Jane for 3
+Alex draws a 3h
+ 
+Jane asks Alex for Q
+Jane draws a Qh
+ 
+Alex asks Jane for 5
+Alex draws a 5d
+ 
+Jane asks Alex for 10
+Alex gives a 10c to Jane
+Jane asks Alex for Q
+Alex gives a Qh to Jane
+Jane asks Alex for K
+Jane draws a Ks
+ 
+Alex asks Jane for 3
+Alex draws a 3h
+ 
+Jane asks Alex for 10
+Jane draws a 10c
+ 
+Alex asks Jane for 5
+Alex draws a 5d
+ 
+Jane asks Alex for 6
+Jane draws a 6c
+ 
+Alex asks Jane for 5
+Alex draws a 5d
+ 
+Jane asks Alex for 6
+Jane draws a 6c
+ 
+Alex asks Jane for 5
+Alex draws a 5d
+ 
+Jane asks Alex for K
+Jane draws a Ks
+ 
+Alex asks Jane for 9
+Jane asks Alex for K
+Alex asks Jane for 5
+Jane asks Alex for K
+Alex asks Jane for 5
+Jane asks Alex for 6
+Alex asks Jane for 9
+Jane asks Alex for J
+Alex gives a Jd to Jane
+Jane asks Alex for 2
+Alex gives a 2d to Jane
+Jane asks Alex for J
+Jane is the winner!!
